@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="TicketingApp.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EventTicket.h" />
+    <ClInclude Include="MovieTicket.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
