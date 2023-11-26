@@ -2,6 +2,7 @@
 #include <cstring>
 #include "EventTicket.h"
 #include "MovieTicket.h"
+#include "ConcertTicket.h"
 #define _CRT_SECURE_NO_WARNINGS
 
 using namespace std;
